@@ -1,0 +1,149 @@
+/*CSS Reset*/
+*{
+padding:0;
+margin: 0;
+box-sizing: border-box;
+}
+
+
+#navbg {
+	background-color: rgba(0, 0, 51,.9);
+
+}
+.navbartexts {
+	font-size: 90%;
+	text-shadow: 3px 2px 2px rgb(0, 0, 0);
+	font-family: 'Lato', sans-serif;
+
+}
+/*START OF HOME*/
+
+#Home {
+	background-image: url(./images/l2.jpg);
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 700px;
+	
+
+}
+#whitescreentitle {
+
+	background-color: rgba(250,250,250,.6);
+	box-shadow: 0 0 3px 3px #000000;
+	margin-bottom: 23px;
+
+
+
+}
+
+#ELAINE {
+	color: black !important;
+	font-size: 400%;
+	text-shadow: 3px 2px 2px rgb(153, 187, 255);
+
+}
+
+#jobtitles {
+	color: black !important;
+	font-size: 200%;
+
+}
+
+/*END OF HOME*/
+
+/*START OF ABOUT ME*/
+#aboutme {
+	color: black !important;
+	background-color: rgba(250,250,250,.6);
+	margin: 0%;
+}
+#myid {
+	min-height: 200px;
+	 padding: 0%;
+     margin: 0%;
+     margin-bottom: 25px;
+}
+
+#containeraboutmemore {
+	color: black !important;
+	text-align: justify;
+	background-color: rgba(250,250,250,.6);
+	margin-bottom: 25px;
+}
+/*END OF ABOUT ME*/
+
+
+/* PORTFOLIO START */
+
+#Tools-Experience {
+	background-image: url(./images/sky3.jpg);
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-position: top;
+	padding-bottom: 300px;
+}
+
+
+
+/* PORTFOLIO END */
+
+#devtoolscontainer {
+	background-color: rgba(250,250,250,.6);
+	margin: 30px;
+}
+
+#accomplishmentscontainer {
+	background-color: rgba(250,250,250,.6);
+	margin: 15px;
+	padding: 20px;
+
+}
+
+#gallerysubcontainer {
+	background-color: rgba(250,250,250,.6);
+	margin: 20px;
+	padding: 20px;
+
+}
+
+#contactsubcontainer {
+	background-color: rgba(250,250,250,.6);
+	margin: 20px;
+	padding: 20px;
+}
+
+#CONTACT {
+	color: black !important;
+}
+
+#GALLERY {
+	color: black !important;
+}
+
+
+/*EXPERIMENT*/
+.card-back {
+	background-image: url(./images/sky3.jpg);
+	background-repeat: no-repeat;
+	background-position: top-center;
+}
+
+#ProjectGalleryBG{
+	background-color: rgba(210,210,210,.6);
+}
+
+#CarouselBG{
+	background-color: rgba(210,210,210,.6);
+
+}
+
+
+#otherActivitiescontainer {
+	background-color: rgba(210,210,210,.6);
+}
+
+#footercontainer {
+	background-color: rgba(0, 0, 51,.9);
+	color: white;
+	letter-spacing: 4px;
